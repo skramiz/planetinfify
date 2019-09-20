@@ -1,0 +1,159 @@
+
+.main-hr{
+  background-color: #ea5455;
+  border-style: none;
+  height: 3px;
+  text-align: center;
+}
+
+.main-img {
+  height: 80%;
+  width: 80%;
+
+}
+
+.main-text {
+  color: #2d4059;
+}
+
+h2 {
+  padding: 2%;
+  color: #f07b3f;
+  font-family: 'Merriweather', serif;
+}
+
+body {
+  background-color: #2d4059;
+  font-family: 'Playfair Display', serif;
+}
+
+.brand-logo{
+
+  height:48px;
+  width:48px;
+
+}
+
+
+
+.image-anxiety{
+  text-align: center;
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+
+
+
+
+
+.second-horizontal-div{
+
+  position: relative;
+  margin: 0 2% 2% 2%;
+  top:-120px;
+
+}
+
+.nav-custom{
+  background-color: #f9ed69;
+  margin: 0.5%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #b83b5e;
+}
+
+@media (max-width:768px){
+
+  .second-horizontal-div{
+
+
+    position: relative;
+    margin: 0 5% 5% 5%;
+    top:0;
+
+
+
+
+  }
+
+  .image-anxiety{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin: 10% auto 0 auto;
+  }
+
+
+}
+
+
+
+
+.left-container{
+
+
+  /* padding: 0.5%; */
+  text-align: center;
+  background-color: #cadefc;
+  height: 10%;
+}
+
+.fab{
+
+   margin: 0 2% 2% 2%;
+
+}
+
+.maintext-container{
+  padding: 1% 1% 1%;
+
+  /* margin :1% 1% 1% 1%; */
+
+}
+.heading-container{
+  text-align: center;
+}
+.right-container{
+
+  background-color: #cadefc;
+
+  /* padding: 0.25%; */
+  /* margin :1% 1% 1% 1%; */
+  padding-bottom: 50%;
+
+}
+
+.related-heading{
+  padding: 5px;
+  margin: 0;
+  color: #112d4e;
+}
+.related-img{
+
+  height:25%;
+  width:25%;
+  float:left;
+  margin:1%;
+
+}
+
+.related-items{
+  font-size: 0.75rem;
+  color: #3f72af;
+}
+
+
+
+.related-category{
+  margin:2%;
+  color: #ffd3b6;
+  padding-top: 2%;
+  display: block;
+}
+.related-topic{
+  width: 99%;
+  margin:2%;
+  display: block;
+}
